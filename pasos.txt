@@ -1,0 +1,16 @@
+1.- copiar el link del proyecto
+2.-crear una carpeta local
+3.-entrar a la carpeta
+4.-abrir terminal gitbush
+5.-pegar el link (git clone http:// www.etc.com)
+6.-clonado el proyecto --se visualiza--, crear un archivo .txt y se guarda
+7.-en el terminal,   (' ls ' aparece el nombre del archivo a copiar)
+8.- entrar a la carpeta del proyecto ( cd proyecto)
+9.-visualizar el estado (git status)
+10.-muestra los cambios hechos de manera local, sin agregar al proyecto
+11.-agregamos los archivos al proyecto (git add saludo.txt)
+12.-Se puede modificar nuevamente, en el archivo escribir, guardar 
+13.-se puede visualizar la diferencia el antes y el despues (git diff)
+14.-agregamos los archivos al proyecto (git add .)
+15.-Empaquetamos el proyecto con un mensaje ( git commit -m "este es mi aporte")
+16.-Subimos a nuestro repositorio en la nube (git push)
